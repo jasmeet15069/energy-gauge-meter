@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/iitenergymeter/BuildConfig.java
+ com.example.iitenergymeter.BuildConfig
